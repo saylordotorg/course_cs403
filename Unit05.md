@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Relational Database Model** <span id="5"></span> 
 *The relational database model provides us with a way to understand how
 data can be perceived.  While the E-R model represents the relations

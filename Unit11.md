@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation's CS403 Final Exam**
     Link: The Saylor Foundation's [CS403 Final

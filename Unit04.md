@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Entity Relationship Model** <span id="4"></span> 
 *Databases often hold a great amount of data.  In order to build a
 database, we need to understand which entities should hold data and

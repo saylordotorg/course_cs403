@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Modern Database Systems** <span
 id="1"></span> 
 *Different databases serve different purposes; each one is dependent

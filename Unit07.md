@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Intro to Data Normalization** <span id="7"></span> 
 *In this course, we have learned that entities in a database can be
 thought of as logical tables.  We will now learn that data in a table

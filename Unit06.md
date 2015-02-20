@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Relational Algebra** <span id="6"></span> 
  *We have seen that database entities can be viewed as logical tables.
 While this is useful in its own way, we can learn more from the data if

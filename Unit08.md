@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Introduction to SQL** <span id="8"></span> 
 *Structured Query Language (SQL) is the main data definition language
 used for the creation and maintenance of databases.  In this unit,* *we

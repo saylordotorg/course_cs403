@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Basic Select Statements** <span id="9"></span> 
 *In Unit 8, we introduced the select statement.  In this unit, we will
 learn to build queries using one table.  We will take a look at the

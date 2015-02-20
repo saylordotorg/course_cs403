@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS403: Introduction to Modern Database Systems"
+course_description: "A study of database architecture and the components used in implementation. Topics include using the Structured Query Language, file structures and access methods, database modeling, design, and user interface,components of database management systems, and information storage and retrieval."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: The Join Statement** <span id="10"></span> 
 *Programmers frequently join data from a number of different tables in
 order to obtain more information.  They also—perhaps even more
